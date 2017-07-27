@@ -5,4 +5,4 @@ This is a small C program written in ~2009. It renders the
 
 Example output:
 
-TODO
+![Buddhabrot rendering](buddhabrot.jpg)
